@@ -2,7 +2,7 @@
 FitTrack || A Fitness Navigator
 
 
-✨ FEATURES
+# FEATURES
 👉 Map where user clicks to add new workout (best way to get location coordinates) 
 👉 Geolocation to display map at current location (more user friendly) 
 👉 Form to input distance, time, pace, steps/minute 
