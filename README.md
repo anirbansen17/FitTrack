@@ -1,26 +1,32 @@
-# LIVE SITE
-🔗 Live version of this site is available <a href="https://anirbansen-fittrack.netlify.app/" target="_blank">here</a>
-
-# FitTrack
-FitTrack || A Fitness Navigator
+# FitTrack - A Fitness Navigator
+FitTrack is a fitness application that helps you track your workouts with ease. Whether you're a seasoned athlete or just starting your fitness journey, FitTrack has got you covered. From tracking your runs to recording your hikes, FitTrack makes it simple to keep tabs on your progress and stay motivated. Explore the features below to learn more about how FitTrack can help you reach your fitness goals!
 
 
-# FEATURES
-👉 Map where user clicks to add new workout (best way to get location coordinates) 
+# Features
 
-👉 Geolocation to display map at current location (more user friendly) 
+🌍 Interactive Map: Click on the map to add new workouts, making it convenient to pinpoint your workout locations.
 
-👉 Form to input distance, time, pace, steps/minute 
+📍 Geolocation: Display the map at your current location for a more user-friendly experience.
 
-👉 Form to input distance, time, speed, elevation gain 
+📝 Workout Forms:
 
-👉 Display all workouts in a list 
+Input distance, time, pace, and steps/minute.
+Input distance, time, speed, and elevation gain.
+📋 Workout List: View all your workouts in a comprehensive list format.
 
-👉 Display all workouts on the map 
+🗺️ Map Display: See all your workouts visually represented on the map for better visualization.
 
-👉 Store workout data in the browser using local storage API 
+💾 Local Storage: Store your workout data in the browser using the local storage API for easy access and persistence.
 
-👉 On page load, read the saved data from local storage and display 
+🔄 Automatic Data Retrieval: Upon page load, FitTrack automatically retrieves and displays your saved workout data from local storage.
+
+
 
 # IMAGES
 📸 ![img-1](./screenshots/image-2.png)
+
+# LIVE SITE
+🔗 Check out the live version of FitTrack <a href="https://anirbansen-fittrack.netlify.app/" target="_blank">here</a>
+
+Start tracking your fitness journey today with FitTrack!
+
