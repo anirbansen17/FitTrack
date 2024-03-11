@@ -1,5 +1,5 @@
 # LIVE SITE
-🔗 Live version of this site is available [here](https://anirbansen17.github.io/FitTrack/)
+🔗 Live version of this site is available <a href="https://anirbansen17.github.io/FitTrack/" target= "_blank">here</a>
 
 # FitTrack
 FitTrack || A Fitness Navigator
