@@ -1,5 +1,5 @@
 # LIVE SITE
-🔗 Live version of this site is available <a href="https://anirbansen17.github.io/FitTrack/" target="_blank">here</a>
+🔗 Live version of this site is available <a href="anirbansen-fittrack.netlify.app" target="_blank">here</a>
 
 # FitTrack
 FitTrack || A Fitness Navigator
@@ -23,4 +23,4 @@ FitTrack || A Fitness Navigator
 👉 On page load, read the saved data from local storage and display 
 
 # IMAGES
-📸 ![img-1](./screenshots/image-1.png)
+📸 ![img-1](./screenshots/image-2.png)
