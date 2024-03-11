@@ -1,5 +1,5 @@
 # LIVE SITE
-🔗 Live version of this site is available <a href="anirbansen-fittrack.netlify.app" target="_blank">here</a>
+🔗 Live version of this site is available <a href="https://anirbansen-fittrack.netlify.app/" target="_blank">here</a>
 
 # FitTrack
 FitTrack || A Fitness Navigator
