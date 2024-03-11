@@ -1,0 +1,15 @@
+{
+  "name": "fittrack",
+  "version": "1.0.0",
+  "description": "FitTrack || A Fitness Navigator",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Anirban Sen",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
